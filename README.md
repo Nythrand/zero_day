@@ -1,13 +1,13 @@
 # Vagrant - or - how to code in your local computer
 ## Resources
 ###### Read or what: ######
-A [link](https://en.wikipedia.org/wiki/Virtual_machine "Virtual machine").
+[https://en.wikipedia.org/wiki/Virtual_machin]("Virtual machine").
 
-A [link]( https://linux.die.net/man/1/uname "man uname").
+[https://linux.die.net/man/1/uname]("man uname").
 
 ## Learning Objectives
 
-###### At the end of this project, you are expected to be able to A [link]( https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone").  ######
+###### At the end of this project, you are expected to be able to [https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg]("explain to anyone").  ######
 
 ## without the help of Google:
 
